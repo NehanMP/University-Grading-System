@@ -7,3 +7,11 @@ The University Grading System is a user-friendly application implimented to simp
 <b><li>Input Student Scores:</b> Students can input scores for different assignments or exams.
 <b><li>Calculate Grades:</b> The program calculates grades based on predefined criteria, such as "Progress", "Progress Module", "Do not Progress", and "Exclude".
 <b><li>Store Data:</b> It stores the input student scores in a text file.
+
+## Created by
+<li>Nehan Perera</li>
+
+## Usage
+1. Clone the repository to your local machine.
+2. Run the Part_4.py file.
+3. Follow the prompts to input student scores and generate grades.
