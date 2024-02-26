@@ -4,6 +4,6 @@ The University Grading System is a user-friendly application implimented to simp
 
 ## Features
 
-<b>Input Student Scores:</b> Students can input scores for different assignments or exams.
-<b>Calculate Grades:</b> The program calculates grades based on predefined criteria, such as "Progress", "Progress Module", "Do not Progress", and "Exclude".
-<b>Store Data:</b> It stores the input student scores in a text file.
+<b><ul>Input Student Scores:</b></ul> Students can input scores for different assignments or exams.
+<b><ul>Calculate Grades:</b></ul> The program calculates grades based on predefined criteria, such as "Progress", "Progress Module", "Do not Progress", and "Exclude".
+<b><ul>Store Data:</b></ul> It stores the input student scores in a text file.
