@@ -1,4 +1,9 @@
 # University-Grading-System
 
-Program designed for a university grading system, where a student's credits are entered and the result of whether that student
-progresses, must repeat or must follow a module retailer is given back as the output.
+The University Grading System is a user-friendly application implimented to simplify the grading process for educators while enhancing the educational experience for students. Initially developed as part of the coursework obligations at IIT for the 1st-year. This Python project empowers students to effortlessly input their scores. Leveraging predefined criteria, the system swiftly computes accurate grades, delivering valuable feedback to both students and instructors alike. Through its intuitive interface and automated functions, the University Grading System streamlines assessment procedures, fostering efficiency and transparency in academic evaluations. Ultimately, it cultivates an environment conducive to academic growth and progress.
+
+## Features
+
+<b>Input Student Scores:</b> Students can input scores for different assignments or exams.
+<b>Calculate Grades:</b> The program calculates grades based on predefined criteria, such as "Progress", "Progress Module", "Do not Progress", and "Exclude".
+<b>Store Data:</b> It stores the input student scores in a text file.
